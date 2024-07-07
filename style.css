@@ -1,0 +1,18 @@
+#global{
+border: 1px;
+background-color: rgb(255, 47, 206);
+height: 1000px;
+}
+#header{
+    border: 1px;
+    background-color: rgb(255, 115, 0);
+    height: 100px;
+    margin: 5px;
+    padding: 5px;
+}
+#contenu{
+    border: 1px;
+    background-color: rgb(128, 1, 124);
+    height: 900px;
+    margin: 5px;
+    padding: 5px;
